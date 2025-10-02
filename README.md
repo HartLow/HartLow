@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm HartLow!# 👋 Hi there, I'm HartLow!<div align="center"><div align="center">
+# 👋 Hi there, I'm HartLow!# 👋 Hi there, I'm HartLow!# 👋 Hi there, I'm HartLow!<div align="center"><div align="center">
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)![Earth Banner](./earth-banner.svg)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)
 
@@ -14,109 +14,229 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-![Earth Banner](./earth-banner.svg)<!-- Main Banner with Earth Rotation & Shooting Stars --><h1 align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)<div align="center">
 
 ---
 
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)
 
 ## 🚀 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)<img src="./earth-banner.svg" alt="HartLow - Hello Everyone!" width="100%"/>    <img src="./ear---
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)
 
 **Full-Stack Developer | AI Enthusiast | Game Engine Architect**
 
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)
+![Profile Views](https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 - 📍 Hanoi, Vietnam 🇻🇳
 
-- 🎓 4th Year IT Student at University of Transport and Communications[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)
+- 🎓 4th Year IT Student at University of Transport and Communications![Earth Banner](./earth-banner.svg)<!-- Main Banner with Earth Rotation & Shooting Stars --><h1 align="center">
 
-- 💻 Specialized in Web Development, AI Integration & Game Development
+- 💻 Specialized in Web Dev, AI Integration & Game Development
 
-- 🎮 Built custom 3D game engines from scratch
+- 🎮 Built custom 3D game engines from scratch---
 
-- 🤖 Expert in Google Gemini AI, NLP, and chatbot development
+- 🤖 Expert in Google Gemini AI & NLP
 
-- 🚀 33+ completed projects across AI, games, and enterprise apps![Profile Views](https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge)<br/>## 🎨 Visual Gallery
-
-
-
----
+- 🚀 33+ completed projects
 
 
 
-## 🛠️ Tech Stack</div>
+![Tech Showcase](./tech-showcase.svg)## 🚀 About Me
 
 
 
-**Languages:** JavaScript, Python, TypeScript, HTML5, CSS3
+---[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)<img src="./earth-banner.svg" alt="HartLow - Hello Everyone!" width="100%"/>    <img src="./ear---
 
 
 
-**Frontend:** React Native, Bootstrap, Three.js---<!-- Social Links --><div align="center">
+## 🛠️ Tech Stack**Full-Stack Developer | AI Enthusiast | Game Engine Architect**
 
 
 
-**Backend:** Node.js, Express.js, Flask
+**Languages:** JavaScript • Python • TypeScript • HTML5 • CSS3[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)
 
 
 
-**Database:** MongoDB, SQL Server, SQLite## 🚀 About Me[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)
+**Frontend:** React Native • Bootstrap • Three.js- 📍 Hanoi, Vietnam 🇻🇳
 
 
 
-**AI & Tools:** Google Gemini, Git, VS Code, Postman
+**Backend:** Node.js • Express.js • Flask- 🎓 4th Year IT Student at University of Transport and Communications[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)
 
 
 
----<img align="right" width="300" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)<img src="galaxy-intro.svg" width="1200" alt="Galaxy Intro"/>
+**Database:** MongoDB • SQL Server • SQLite- 💻 Specialized in Web Development, AI Integration & Game Development
 
 
 
-## 🎮 Featured Projects
+**AI & Tools:** Google Gemini • Git • VS Code- 🎮 Built custom 3D game engines from scratch
 
 
 
-### 🤖 AI Applications```javascript[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)
-
-- **[UTC Virtual Admission Assistant](https://hartlow.github.io/TroLyUTCBot/talk.html)** - AI chatbot với voice interaction, NLP, character animations
-
-- **[HartAI Platform](https://hartlow.github.io/HartAI)** - AI assistant platform với Gemini AI, image generatorconst hartlow = {
+---- 🤖 Expert in Google Gemini AI, NLP, and chatbot development
 
 
 
-### 🎮 Game Development  name: "HartLow",<br/><br/>
-
-- **3D Dungeon Explorer** (960 lines) - Custom raycasting engine, 3D rendering, AI pathfinding
-
-- **Chicken Invaders** (2600 lines) - 8 enemy types, 20-level weapons, 60fps optimized  role: "Full-Stack Developer",
-
-- **Solar System Simulator** (1200 lines) - Three.js, real-time astronomy, orbital mechanics
-
-- **Ai Là Triệu Phú Quiz** (800 lines) - 100+ questions, TV-accurate UI  location: "Hanoi, Vietnam 🇻🇳",<img src="https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+## 🎮 Featured Projects- 🚀 33+ completed projects across AI, games, and enterprise apps![Profile Views](https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge)<br/>## 🎨 Visual Gallery
 
 
 
-### 💼 Enterprise Apps  education: "University of Transport and Communications",
+### 🤖 AI Applications
+
+- **[UTC Virtual Admission Assistant](https://hartlow.github.io/TroLyUTCBot/talk.html)** - AI chatbot with voice interaction & NLP
+
+- **[HartAI Platform](https://hartlow.github.io/HartAI)** - AI assistant with Gemini AI & image generator---
+
+
+
+### 🎮 Games
+
+- **3D Dungeon Explorer** (960 lines) - Custom raycasting engine with AI pathfinding
+
+- **Chicken Invaders** (2600 lines) - 8 enemy types, 20-level weapons, 60fps## 🛠️ Tech Stack</div>
+
+- **Solar System Simulator** (1200 lines) - Three.js real-time astronomy
+
+- **Ai Là Triệu Phú Quiz** (800 lines) - 100+ questions with TV UI
+
+
+
+### 💼 Enterprise Apps**Languages:** JavaScript, Python, TypeScript, HTML5, CSS3
 
 - **Learning Management System** - React Native, Node.js, MongoDB
 
-- **E-commerce Platform** - Node.js, Express.js, SQL  year: "4th Year IT Student",<img src="HartLow.svg" width="1200" alt="3D Rotating Banner"/>
+- **E-commerce Platform** - Node.js, Express.js, SQL
 
-- **Product Management API** - Python Flask, REST API
+- **Product Management API** - Python Flask REST API
 
-  passion: ["AI", "Game Dev", "Web Dev"],
+**Frontend:** React Native, Bootstrap, Three.js---<!-- Social Links --><div align="center">
+
+![Galaxy Intro](./galaxy-intro.svg)
+
+
 
 ---
 
-  learning: ["AI/ML", "Cloud Computing"]<!-- GitHub Trophy -->
+**Backend:** Node.js, Express.js, Flask
 
 ## 📊 Stats
 
-};
+
 
 ```
+
+📦 33+ Projects | 💻 50,000+ Lines of Code**Database:** MongoDB, SQL Server, SQLite## 🚀 About Me[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)
+
+🤖 5 AI Apps | 🎮 7 Games | 💼 12 Web Apps | 📱 3 Mobile Apps | 🔧 4 APIs
+
+```
+
+
+
+## 🏆 Achievements**AI & Tools:** Google Gemini, Git, VS Code, Postman
+
+
+
+✅ Custom 3D raycasting engine  
+
+✅ AI chatbot with voice  
+
+✅ 60fps optimized games  ---<img align="right" width="300" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)<img src="galaxy-intro.svg" width="1200" alt="Galaxy Intro"/>
+
+✅ Google Gemini AI integration  
+
+✅ Enterprise REST APIs  
+
+
+
+![3D Banner](./HartLow.svg)## 🎮 Featured Projects
+
+
+
+---
+
+
+
+## 📈 GitHub Stats### 🤖 AI Applications```javascript[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=HartLow&show_icons=true&theme=radical&include_all_commits=true&count_private=true)- **[UTC Virtual Admission Assistant](https://hartlow.github.io/TroLyUTCBot/talk.html)** - AI chatbot với voice interaction, NLP, character animations
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HartLow&layout=compact&theme=radical)
+
+- **[HartAI Platform](https://hartlow.github.io/HartAI)** - AI assistant platform với Gemini AI, image generatorconst hartlow = {
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HartLow&theme=radical)
+
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=HartLow&column=7&theme=radical&no-frame=true)
+
+### 🎮 Game Development  name: "HartLow",<br/><br/>
+
+![Code Matrix](./code-matrix.svg)
+
+- **3D Dungeon Explorer** (960 lines) - Custom raycasting engine, 3D rendering, AI pathfinding
+
+---
+
+- **Chicken Invaders** (2600 lines) - 8 enemy types, 20-level weapons, 60fps optimized  role: "Full-Stack Developer",
+
+## 🌟 What I'm Learning (2025)
+
+- **Solar System Simulator** (1200 lines) - Three.js, real-time astronomy, orbital mechanics
+
+**Current:** AI/ML, Cloud Computing, Docker, Kubernetes  
+
+**Interested:** Blockchain, AR/VR, Quantum Computing  - **Ai Là Triệu Phú Quiz** (800 lines) - 100+ questions, TV-accurate UI  location: "Hanoi, Vietnam 🇻🇳",<img src="https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+**Goal:** AI/ML expert for web applications
+
+
+
+![Neon City](./neon-city.svg)
+
+### 💼 Enterprise Apps  education: "University of Transport and Communications",
+
+---
+
+- **Learning Management System** - React Native, Node.js, MongoDB
+
+## 🤝 Connect
+
+- **E-commerce Platform** - Node.js, Express.js, SQL  year: "4th Year IT Student",<img src="HartLow.svg" width="1200" alt="3D Rotating Banner"/>
+
+![Hello](./hello.svg)
+
+- **Product Management API** - Python Flask, REST API
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)  passion: ["AI", "Game Dev", "Web Dev"],
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:lvphat10092k4@gmail.com)
+
+---
+
+![Night View](./profile-night-view.svg)
+
+  learning: ["AI/ML", "Cloud Computing"]<!-- GitHub Trophy -->
+
+---
+
+## 📊 Stats
+
+**💬 "Code with passion, create with heart, never stop learning"**
+
+};
+
+⭐ *Star my repos if you find them interesting!*
+
+```
+
+*Last Updated: October 2025*
 
 📦 Total Projects: 33+```<img width="800" src="https://github-profile-trophy.vercel.app/?username=HartLow&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=4" /><br/><br/>
 
