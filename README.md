@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Hello Banner](./hello.svg)
+![Earth Banner](./earth-banner.svg)
 
 **Full-Stack Developer | AI Enthusiast | Game Developer**
 
@@ -76,7 +76,7 @@ Fourth-year IT student at **University of Transport and Communications** special
 
 <div align="center">
 
-![Earth Banner](./earth-banner.svg)
+![Hello Banner](./hello.svg)
 
 </div>
 
