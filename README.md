@@ -1,245 +1,488 @@
-<div align="center"><div align="center">
+# 👋 Hi there, I'm HartLow!<div align="center"><div align="center">
 
 
-
-<!-- Main Banner with Earth Rotation & Shooting Stars --><h1 align="center">
-
-<img src="./earth-banner.svg" alt="HartLow - Hello Everyone!" width="100%"/>    <img src="./ear---
-
-
-
-<br/>## 🎨 Visual Gallery
-
-
-
-<!-- Social Links --><div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)<img src="galaxy-intro.svg" width="1200" alt="Galaxy Intro"/>
-
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-<img src="HartLow.svg" width="1200" alt="3D Rotating Banner"/>
-
-<!-- GitHub Trophy -->
-
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=HartLow&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=4" /><br/><br/>
-
-
-
-</div><img src="tech-showcase.svg" width="1000" alt="Tech Showcase"/>
-
-
-
----<br/><br/>
-
-
-
-## 🚀 About Me<img src="code-matrix.svg" width="800" alt="Matrix Code"/>
-
-
-
-<img align="right" width="350px" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" /><br/><br/>
-
-
-
-```javascript<img src="neon-city.svg" width="1200" alt="Neon City"/>
-
-const hartlow = {
-
-  name: "HartLow",</div>
-
-  role: "Full-Stack Developer",
-
-  location: "Hanoi, Vietnam 🇻🇳",---
-
-  education: "University of Transport and Communications",
-
-  yearOfStudy: "4th Year IT Student",## 🛠️ Tech Stack-banner.svg" alt="HartLow Space Intro"/>
-
-  passion: ["AI", "Game Development", "Web Development"],</h1>
-
-  currentlyLearning: ["Advanced AI/ML", "Cloud Computing"],
-
-  funFact: "Built custom 3D game engines from scratch! 🎮"</div>
-
-};
-
-```<br/>
-
-
-
-### 💼 Professional Identity<div align="center">
-
-
-
-- 💻 **Full-Stack Developer** specializing in modern web technologies[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)
-
-- 🤖 **AI Integration Specialist** with Google Gemini & NLP experience[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)
-
-- 🎮 **Game Engine Architect** with custom 3D rendering capabilities[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)
-
-- 🚀 **Problem Solver** with 33+ completed projects
-
-<img src="https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-### 🎓 Education
-
-</div>
-
-- 📚 Bachelor's in Information Technology (2022-2026)
-
-- 🏫 University of Transport and Communications, Hanoi<br/>
-
-- 🌟 Focus: Software Development, AI Integration, System Architecture
-
-<p align="center">
-
-<br clear="right"/>  <img width="800" src="https://github-profile-trophy.vercel.app/?username=HartLow&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-
-</p>
-
----
-
----
-
-## 🛠️ Tech Stack
-
-## � About Me
 
 <div align="center">
 
-<img align="right" width="300px" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
 
-<img src="./tech-showcase.svg" alt="Tech Stack" width="700"/>
 
-```javascript
-
-</div>const hartlow = {
-
-  name: "HartLow",
-
-### **Languages**  role: "Full-Stack Developer",
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  location: "Hanoi, Vietnam 🇻🇳",
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  education: "University of Transport and Communications",
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  yearOfStudy: "4th Year IT Student",
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  passion: ["AI", "Game Development", "Web Development"],
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  currentlyLearning: ["Advanced AI/ML", "Cloud Computing"],
-
-  funFact: "Built custom 3D game engines from scratch! 🎮"
-
-### **Frontend Development**};
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)```
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)### 💼 Professional Identity
+![Earth Banner](./earth-banner.svg)<!-- Main Banner with Earth Rotation & Shooting Stars --><h1 align="center">
 
 
 
-### **Backend Development**- 💻 **Full-Stack Developer** specializing in modern web technologies
+[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)<img src="./earth-banner.svg" alt="HartLow - Hello Everyone!" width="100%"/>    <img src="./ear---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)- 🤖 **AI Integration Specialist** with Google Gemini & NLP experience
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)- 🎮 **Game Engine Architect** with custom 3D rendering capabilities
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)- 🚀 **Problem Solver** with 33+ completed projects
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)
 
 
 
-### **Database**### 🎓 Education
+![Profile Views](https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge)<br/>## 🎨 Visual Gallery
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)- 📚 Bachelor's in Information Technology (2022-2026)
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)- 🏫 University of Transport and Communications, Hanoi
+</div>
 
-- 🌟 Focus: Software Development, AI Integration, System Architecture
 
-### **AI & Tools**
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)<br clear="right"/>
+---<!-- Social Links --><div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<hr>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🚀 About Me[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)
 
-## �️ Tech Stack
+
+
+<img align="right" width="300" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)<img src="galaxy-intro.svg" width="1200" alt="Galaxy Intro"/>
+
+
+
+```javascript[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)
+
+const hartlow = {
+
+  name: "HartLow",<br/><br/>
+
+  role: "Full-Stack Developer",
+
+  location: "Hanoi, Vietnam 🇻🇳",<img src="https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+  education: "University of Transport and Communications",
+
+  year: "4th Year IT Student",<img src="HartLow.svg" width="1200" alt="3D Rotating Banner"/>
+
+  passion: ["AI", "Game Dev", "Web Dev"],
+
+  learning: ["AI/ML", "Cloud Computing"]<!-- GitHub Trophy -->
+
+};
+
+```<img width="800" src="https://github-profile-trophy.vercel.app/?username=HartLow&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=4" /><br/><br/>
+
+
+
+**💼 What I Do:**
+
+- 💻 Full-Stack Developer
+
+- 🤖 AI Integration Specialist (Google Gemini)</div><img src="tech-showcase.svg" width="1000" alt="Tech Showcase"/>
+
+- 🎮 Game Engine Architect
+
+- 🚀 33+ Completed Projects
+
+
+
+**🎓 Education:**---<br/><br/>
+
+- 📚 IT Student (2022-2026)
+
+- 🏫 University of Transport and Communications
+
+
+
+<br clear="right"/>## 🚀 About Me<img src="code-matrix.svg" width="800" alt="Matrix Code"/>
+
+
 
 ---
 
-### **Languages**
+
+
+## 🛠️ Tech Stack<img align="right" width="350px" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" /><br/><br/>
+
+
+
+![Tech Showcase](./tech-showcase.svg)
+
+
+
+**Languages:**```javascript<img src="neon-city.svg" width="1200" alt="Neon City"/>
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)const hartlow = {
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  name: "HartLow",</div>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  role: "Full-Stack Developer",
+
+
+
+**Frontend:**  location: "Hanoi, Vietnam 🇻🇳",---
+
+
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)  education: "University of Transport and Communications",
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)  yearOfStudy: "4th Year IT Student",## 🛠️ Tech Stack-banner.svg" alt="HartLow Space Intro"/>
+
+
+
+**Backend:**  passion: ["AI", "Game Development", "Web Development"],</h1>
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  currentlyLearning: ["Advanced AI/ML", "Cloud Computing"],
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  funFact: "Built custom 3D game engines from scratch! 🎮"</div>
+
+
+
+**Database:**};
+
+
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)```<br/>
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+
+
+**AI & Tools:**### 💼 Professional Identity<div align="center">
+
+
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)- 💻 **Full-Stack Developer** specializing in modern web technologies[![GitHub](https://img.shields.io/badge/GitHub-HartLow-181717?style=for-the-badge&logo=github)](https://github.com/HartLow)
+
+
+
+---- 🤖 **AI Integration Specialist** with Google Gemini & NLP experience[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/100070863624856)
+
+
+
+## 🎮 Featured Projects- 🎮 **Game Engine Architect** with custom 3D rendering capabilities[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)
+
+
+
+### 🤖 AI & Chatbot- 🚀 **Problem Solver** with 33+ completed projects
+
+
+
+| Project | Tech Stack | Features |<img src="https://komarev.com/ghpvc/?username=HartLow&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+|---------|-----------|----------|
+
+| **[UTC Virtual Admission Assistant](https://hartlow.github.io/TroLyUTCBot/talk.html)** | Node.js, NLP, Web Speech API | 🎙️ Voice interaction, 🤖 NLP, 🎨 Character animations |### 🎓 Education
+
+| **[HartAI Platform](https://hartlow.github.io/HartAI)** | Google Gemini AI, Node.js, MongoDB | 🤖 AI assistant, 🖼️ Image generator, 💬 Real-time chat |
+
+</div>
+
+### 🎮 Game Development
+
+- 📚 Bachelor's in Information Technology (2022-2026)
+
+| Project | Lines | Tech Stack | Highlights |
+
+|---------|-------|-----------|------------|- 🏫 University of Transport and Communications, Hanoi<br/>
+
+| **3D Dungeon Explorer** | 960 | Custom Raycasting Engine | 🎨 Built from scratch, 🧮 3D rendering, 🤖 AI pathfinding |
+
+| **Chicken Invaders** | 2600 | JavaScript, Canvas API | 🎮 8 enemy types, ⚡ 20-level weapons, 🎯 60fps |- 🌟 Focus: Software Development, AI Integration, System Architecture
+
+| **Solar System Simulator** | 1200 | Three.js, WebGL | 🌍 Real-time astronomy, 🪐 Orbital mechanics |
+
+| **Ai Là Triệu Phú Quiz** | 800 | JavaScript, HTML5 | ❓ 100+ questions, 🎨 TV UI, 🏆 Leaderboards |<p align="center">
+
+
+
+### 💼 Enterprise Web Apps<br clear="right"/>  <img width="800" src="https://github-profile-trophy.vercel.app/?username=HartLow&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
+
+
+| Project | Tech Stack | Features |</p>
+
+|---------|-----------|----------|
+
+| **Learning Management System** | React Native, Node.js, MongoDB | 👨‍🎓 Student Portal, 👨‍🏫 Instructor Tools, 📊 Analytics |---
+
+| **E-commerce Platform** | Node.js, Express.js, SQL | 🛒 Shopping Cart, 💳 Payment, 📦 Tracking |
+
+| **Product Management API** | Python Flask, SQLAlchemy | 🔧 REST API, 🔐 Auth, 📝 Docs |---
+
+
+
+---## 🛠️ Tech Stack
+
+
+
+## 📊 Stats## � About Me
+
+
+
+```<div align="center">
+
+📦 Total Projects: 33+
+
+├─ 🤖 AI Applications: 5<img align="right" width="300px" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
+
+├─ 🎮 Premium Games: 7
+
+├─ 💼 Web Applications: 12<img src="./tech-showcase.svg" alt="Tech Stack" width="700"/>
+
+├─ 📱 Mobile Apps: 3
+
+├─ 🔧 APIs: 4```javascript
+
+└─ 🎓 Educational Tools: 2+
+
+</div>const hartlow = {
+
+💻 Lines of Code: 50,000+
+
+├─ JavaScript: 30,000+  name: "HartLow",
+
+├─ Python: 10,000+
+
+├─ HTML/CSS: 8,000+### **Languages**  role: "Full-Stack Developer",
+
+└─ Other: 2,000+
+
+```![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  location: "Hanoi, Vietnam 🇻🇳",
+
+
+
+---![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  education: "University of Transport and Communications",
+
+
+
+## 🏆 Key Achievements![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  yearOfStudy: "4th Year IT Student",
+
+
+
+✅ Built **custom 3D raycasting engine** from scratch (960 lines)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  passion: ["AI", "Game Development", "Web Development"],
+
+✅ Developed **AI chatbot** with voice interaction  
+
+✅ Created **33+ completed projects**  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  currentlyLearning: ["Advanced AI/ML", "Cloud Computing"],
+
+✅ Optimized games to **60fps**  
+
+✅ Integrated **Google Gemini AI** in production    funFact: "Built custom 3D game engines from scratch! 🎮"
+
+✅ Designed **enterprise-grade REST APIs**  
+
+✅ Built **cross-platform mobile apps**### **Frontend Development**};
+
+
+
+---![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)```
+
+
+
+## 🎨 Visual Gallery![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+
+<div align="center">![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)### 💼 Professional Identity
+
+
+
+![Galaxy Intro](./galaxy-intro.svg)
+
+
+
+![3D Banner](./HartLow.svg)### **Backend Development**- 💻 **Full-Stack Developer** specializing in modern web technologies
+
+
+
+![Code Matrix](./code-matrix.svg)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)- 🤖 **AI Integration Specialist** with Google Gemini & NLP experience
+
+
+
+![Neon City](./neon-city.svg)![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)- 🎮 **Game Engine Architect** with custom 3D rendering capabilities
+
+
+
+</div>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)- 🚀 **Problem Solver** with 33+ completed projects
+
+
+
+---
+
+
+
+## 📈 GitHub Stats### **Database**### 🎓 Education
+
+
+
+<div align="center">![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HartLow&show_icons=true&theme=radical&include_all_commits=true&count_private=true)![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)- 📚 Bachelor's in Information Technology (2022-2026)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HartLow&layout=compact&langs_count=8&theme=radical)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)- 🏫 University of Transport and Communications, Hanoi
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HartLow&theme=radical)
+
+- 🌟 Focus: Software Development, AI Integration, System Architecture
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HartLow&theme=react-dark&hide_border=true)
+
+### **AI & Tools**
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=HartLow&column=7&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)<br clear="right"/>
+
+</div>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<hr>
+
+## 💡 What Makes Me Different
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+| 🎮 Game Dev | 🤖 AI Integration | 🏗️ Full-Stack |
+
+|-------------|------------------|---------------|## �️ Tech Stack
+
+| Performance optimization & complex algorithms | Modern AI APIs & NLP | Frontend + Backend versatility |
+
+---
+
+| 📚 Self-Learning | 🎨 Problem Solving | 🚀 Growth |
+
+|------------------|-------------------|-----------|### **Languages**
+
+| Learn new tech independently | Innovative solutions | Always exploring cutting-edge |
 
 ## 🎮 Featured Projects![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🌟 Fun Facts
 
 ### 🤖 **AI & Chatbot Projects**![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+```javascript
 
-<table>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+const funFacts = {![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-  <tr>
+  firstGame: "Built my first game at age 20",
 
-    <td width="50%">### **Frontend Development**
+  passion: "AI and automation enthusiast",<table>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+  hobby: "Reading technical docs",
+
+  interest: "Interactive user experiences",  <tr>
+
+  philosophy: "Continuous learning"
+
+};    <td width="50%">### **Frontend Development**
+
+```
 
       <h3 align="center">UTC Virtual Admission Assistant</h3>![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+---
+
       <div align="center">![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 🎯 Current Focus (2025)
 
         <a href="https://hartlow.github.io/TroLyUTCBot/talk.html" target="_blank">![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-          <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo"/>
+```javascript
 
-        </a>### **Backend Development**
+const learning = {          <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo"/>
 
-        <p><strong>Tech:</strong> Node.js, NLP, Web Speech API, PWA</p>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  advanced: ['AI/ML', 'Cloud Computing'],
 
-        <p>🎙️ AI chatbot with voice interaction | 🤖 Natural language processing | 🎨 Interactive character animations</p>![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  inProgress: ['Docker', 'Kubernetes', 'GraphQL'],        </a>### **Backend Development**
 
-      </div>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  interested: ['Blockchain', 'AR/VR', 'Quantum'],
 
-    </td>
+  goal: 'AI/ML expert for web apps'        <p><strong>Tech:</strong> Node.js, NLP, Web Speech API, PWA</p>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-    <td width="50%">### **Database**
+};
 
-      <h3 align="center">HartAI Platform</h3>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+```        <p>🎙️ AI chatbot with voice interaction | 🤖 Natural language processing | 🎨 Interactive character animations</p>![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-      <div align="center">![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-        <a href="https://hartlow.github.io/HartAI" target="_blank">![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-          <img src="https://img.shields.io/badge/View_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo"/>
+---      </div>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-        </a>### **AI & Tools**
 
-        <p><strong>Tech:</strong> Google Gemini AI, Node.js, MongoDB</p>![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-        <p>🤖 AI assistant platform | 🖼️ AI image generator | 💬 Real-time interactions</p>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🤝 Connect with Me    </td>
 
-      </div>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    </td>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-  </tr>
+<div align="center">    <td width="50%">### **Database**
 
-</table>---
 
+
+![Hello](./hello.svg)      <h3 align="center">HartAI Platform</h3>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HartLow)      <div align="center">![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/100070863624856)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvphat10092k4@gmail.com)        <a href="https://hartlow.github.io/HartAI" target="_blank">![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+
+![Night View](./profile-night-view.svg)          <img src="https://img.shields.io/badge/View_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo"/>
+
+
+
+---        </a>### **AI & Tools**
+
+
+
+### 💬 Let's Build Something Amazing!        <p><strong>Tech:</strong> Google Gemini AI, Node.js, MongoDB</p>![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
+
+**HartLow** - Full-Stack Developer | AI Enthusiast | Game Engine Architect        <p>🤖 AI assistant platform | 🖼️ AI image generator | 💬 Real-time interactions</p>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+*"Code with passion, create with heart, and never stop learning"*      </div>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)    </td>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+⭐ *If you find my profile interesting, feel free to star my repositories!*  </tr>
+
+
+
+**Last Updated: October 2025**</table>---
+
+
+
+</div>
 
 
 ### 🎮 **Game Development Projects**## 🎮 Featured Projects
