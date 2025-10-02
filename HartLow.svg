@@ -1,0 +1,112 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Holographic gradient -->
+    <linearGradient id="holo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1">
+        <animate attributeName="stop-color" values="#667eea;#764ba2;#f093fb;#667eea" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1">
+        <animate attributeName="stop-color" values="#764ba2;#f093fb;#667eea;#764ba2" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <!-- 3D text gradient -->
+    <linearGradient id="text3d" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#e0e0e0;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#b0b0b0;stop-opacity:1"/>
+    </linearGradient>
+    
+    <!-- Deep 3D shadow -->
+    <filter id="deep3d">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+      <feOffset dx="10" dy="10" result="offsetblur"/>
+      <feFlood flood-color="#000000" flood-opacity="0.8"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#holo)"/>
+  
+  <!-- 3D Rotating cubes with perspective -->
+  <g transform="translate(150, 150)">
+    <!-- Cube 1 -->
+    <g opacity="0.4">
+      <polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="#ffffff" stroke="#fff" stroke-width="2">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0.7;0.4" dur="3s" repeatCount="indefinite"/>
+      </polygon>
+    </g>
+  </g>
+  
+  <g transform="translate(1050, 150)">
+    <!-- Cube 2 -->
+    <g opacity="0.4">
+      <polygon points="0,-35 30,-17 30,17 0,35 -30,17 -30,-17" fill="#ffffff" stroke="#fff" stroke-width="2">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0.8;0.4" dur="4s" repeatCount="indefinite"/>
+      </polygon>
+    </g>
+  </g>
+  
+  <!-- 3D Text with camera rotation effect -->
+  <g transform="translate(600, 150)">
+    <!-- Shadow layers with perspective -->
+    <text x="15" y="15" font-family="'Arial Black', sans-serif" font-size="90" font-weight="bold" 
+          text-anchor="middle" fill="#000000" opacity="0.3">
+      HartLow
+      <animateTransform attributeName="transform" type="skewX" values="0;-2;0;2;0" dur="8s" repeatCount="indefinite"/>
+    </text>
+    
+    <text x="10" y="10" font-family="'Arial Black', sans-serif" font-size="90" font-weight="bold" 
+          text-anchor="middle" fill="#1a1a2e" opacity="0.5">
+      HartLow
+      <animateTransform attributeName="transform" type="skewX" values="0;2;0;-2;0" dur="8s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Main text with 3D rotation -->
+    <text x="0" y="0" font-family="'Arial Black', sans-serif" font-size="90" font-weight="bold" 
+          text-anchor="middle" fill="url(#text3d)" filter="url(#deep3d)">
+      HartLow
+      <animateTransform attributeName="transform" type="scale" values="1,1;1.05,1.05;1,1" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.9;1" dur="4s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Highlight with perspective -->
+    <text x="-2" y="-2" font-family="'Arial Black', sans-serif" font-size="90" font-weight="bold" 
+          text-anchor="middle" fill="#ffffff" opacity="0.5">
+      HartLow
+      <animateTransform attributeName="transform" type="skewY" values="0;1;0;-1;0" dur="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  
+  <!-- Subtitle with 3D effect -->
+  <g transform="translate(600, 210)">
+    <text x="3" y="3" font-family="Arial, sans-serif" font-size="26" 
+          text-anchor="middle" fill="#000000" opacity="0.4">
+      💻 Full-Stack Developer | 🤖 AI Enthusiast
+    </text>
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="26" 
+          text-anchor="middle" fill="#ffffff">
+      💻 Full-Stack Developer | 🤖 AI Enthusiast
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  
+  <!-- 3D Particles with depth -->
+  <circle cx="300" cy="80" r="5" fill="#ffffff">
+    <animate attributeName="cy" values="80;220;80" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="5;8;5" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="200" r="6" fill="#ffffff">
+    <animate attributeName="cy" values="200;100;200" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="6;9;6" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>

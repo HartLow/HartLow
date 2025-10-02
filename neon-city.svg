@@ -1,0 +1,72 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0033;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#330066;stop-opacity:1"/>
+    </linearGradient>
+    
+    <linearGradient id="neon1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff00ff;stop-opacity:1">
+        <animate attributeName="stop-color" values="#ff00ff;#00ffff;#ff00ff" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#00ffff;stop-opacity:1">
+        <animate attributeName="stop-color" values="#00ffff;#ff00ff;#00ffff" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Sky -->
+  <rect width="1200" height="400" fill="url(#skyGrad)"/>
+  
+  <!-- Stars -->
+  <circle cx="200" cy="50" r="2" fill="#ffffff" opacity="0.8"/>
+  <circle cx="400" cy="80" r="1.5" fill="#ffffff" opacity="0.6"/>
+  <circle cx="600" cy="60" r="2" fill="#ffffff" opacity="0.9"/>
+  <circle cx="800" cy="100" r="1.5" fill="#ffffff" opacity="0.7"/>
+  <circle cx="1000" cy="70" r="2" fill="#ffffff" opacity="0.8"/>
+  
+  <!-- Buildings silhouette -->
+  <rect x="0" y="250" width="150" height="150" fill="#0d0d1a" opacity="0.8"/>
+  <rect x="170" y="200" width="120" height="200" fill="#0d0d1a" opacity="0.8"/>
+  <rect x="310" y="230" width="100" height="170" fill="#0d0d1a" opacity="0.8"/>
+  <rect x="430" y="180" width="140" height="220" fill="#0d0d1a" opacity="0.8"/>
+  <rect x="590" y="220" width="110" height="180" fill="#0d0d1a" opacity="0.8"/>
+  <rect x="720" y="190" width="130" height="210" fill="#0d0d1a" opacity="0.8"/>
+  <rect x="870" y="240" width="100" height="160" fill="#0d0d1a" opacity="0.8"/>
+  <rect x="990" y="210" width="120" height="190" fill="#0d0d1a" opacity="0.8"/>
+  
+  <!-- Neon windows -->
+  <g fill="url(#neon1)" opacity="0.6">
+    <rect x="20" y="270" width="15" height="20"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/></rect>
+    <rect x="50" y="270" width="15" height="20"><animate attributeName="opacity" values="1;0.6;1" dur="2.5s" repeatCount="indefinite"/></rect>
+    <rect x="80" y="270" width="15" height="20"><animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/></rect>
+    <rect x="110" y="270" width="15" height="20"><animate attributeName="opacity" values="1;0.6;1" dur="2.2s" repeatCount="indefinite"/></rect>
+    
+    <rect x="190" y="220" width="15" height="20"><animate attributeName="opacity" values="0.6;1;0.6" dur="2.8s" repeatCount="indefinite"/></rect>
+    <rect x="220" y="220" width="15" height="20"><animate attributeName="opacity" values="1;0.6;1" dur="2.3s" repeatCount="indefinite"/></rect>
+    <rect x="250" y="220" width="15" height="20"><animate attributeName="opacity" values="0.6;1;0.6" dur="2.6s" repeatCount="indefinite"/></rect>
+  </g>
+  
+  <!-- Main neon text -->
+  <g transform="translate(600, 120)">
+    <text x="0" y="0" font-family="'Arial Black', sans-serif" font-size="72" font-weight="bold" text-anchor="middle" fill="url(#neon1)" filter="url(#neonGlow)">
+      HartLow
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  
+  <g transform="translate(600, 170)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" fill="#00ffff">
+      Cyberpunk Developer
+    </text>
+  </g>
+</svg>

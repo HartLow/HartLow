@@ -1,0 +1,47 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="matrixGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff41;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00ff41;stop-opacity:0"/>
+    </linearGradient>
+    
+    <filter id="matrixGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="800" height="400" fill="#000000"/>
+  
+  <!-- Matrix code rain -->
+  <g font-family="'Courier New', monospace" font-size="16" fill="url(#matrixGrad)" filter="url(#matrixGlow)">
+    <text x="50" y="0">01001000<animate attributeName="y" from="-50" to="450" dur="8s" repeatCount="indefinite"/></text>
+    <text x="100" y="0">01100001<animate attributeName="y" from="-100" to="450" dur="7s" repeatCount="indefinite"/></text>
+    <text x="150" y="0">01110010<animate attributeName="y" from="-30" to="450" dur="9s" repeatCount="indefinite"/></text>
+    <text x="200" y="0">01110100<animate attributeName="y" from="-80" to="450" dur="7.5s" repeatCount="indefinite"/></text>
+    <text x="250" y="0">01001100<animate attributeName="y" from="-120" to="450" dur="8.5s" repeatCount="indefinite"/></text>
+    <text x="300" y="0">01101111<animate attributeName="y" from="-40" to="450" dur="6.5s" repeatCount="indefinite"/></text>
+    <text x="350" y="0">01110111<animate attributeName="y" from="-90" to="450" dur="7.8s" repeatCount="indefinite"/></text>
+    <text x="400" y="0">11100011<animate attributeName="y" from="-60" to="450" dur="8.2s" repeatCount="indefinite"/></text>
+    <text x="450" y="0">10100101<animate attributeName="y" from="-110" to="450" dur="7.2s" repeatCount="indefinite"/></text>
+    <text x="500" y="0">11001001<animate attributeName="y" from="-50" to="450" dur="8.8s" repeatCount="indefinite"/></text>
+    <text x="550" y="0">01000100<animate attributeName="y" from="-130" to="450" dur="6.8s" repeatCount="indefinite"/></text>
+    <text x="600" y="0">01100101<animate attributeName="y" from="-70" to="450" dur="7.5s" repeatCount="indefinite"/></text>
+    <text x="650" y="0">01110110<animate attributeName="y" from="-100" to="450" dur="8.3s" repeatCount="indefinite"/></text>
+    <text x="700" y="0">11010111<animate attributeName="y" from="-140" to="450" dur="7s" repeatCount="indefinite"/></text>
+  </g>
+  
+  <!-- Center text -->
+  <g transform="translate(400, 200)">
+    <text x="0" y="0" font-family="'Arial Black', sans-serif" font-size="64" font-weight="bold" text-anchor="middle" fill="#00ff41" filter="url(#matrixGlow)">
+      HartLow
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </text>
+    <text x="0" y="50" font-family="'Courier New', monospace" font-size="24" text-anchor="middle" fill="#00ff41">
+      &lt;/Developer&gt;
+    </text>
+  </g>
+</svg>
